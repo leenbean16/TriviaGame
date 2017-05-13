@@ -13,7 +13,7 @@ window.onload = function() {
             console.log(count);
     $("#score").text(count)
     if(count > 5){
-        $("#score").html("Winner");
+        $("#score").html("BRAVOCADO!!!");
         }
         });
     };
